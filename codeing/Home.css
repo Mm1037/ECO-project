@@ -1,0 +1,32 @@
+
+ li {
+    display: inline;
+    padding: 15px;
+    align-items: center;
+    text-align:center
+}
+
+a{
+    float: left;
+    display: inline;
+   
+}
+
+/* Later */
+
+/* li a:hover {
+    background-color: #555;
+    color: white;
+  } */
+
+/* .active {
+    background-color: #04AA6D;
+    color: white;
+  } */
+
+  /* Later */
+
+
+
+
+
